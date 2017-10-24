@@ -5,3 +5,9 @@ a bunny:
 
      /)/)
     ('.')
+
+another bunny:
+
+     /)/)
+    ('.')
+
